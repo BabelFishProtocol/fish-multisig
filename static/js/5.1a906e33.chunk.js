@@ -1,0 +1,1 @@
+(this["webpackJsonpfish-multisig"]=this["webpackJsonpfish-multisig"]||[]).push([[5],{1726:function(t,n,i){"use strict";i.r(n),i.d(n,"Footer",(function(){return r}));var e=i(0),s=i.n(e);function r(){return s.a.createElement(s.a.Fragment,null)}}}]);
