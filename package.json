@@ -1,8 +1,8 @@
 {
-  "name": "multisig-ui",
+  "name": "fish-multisig",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://distributedcollective.github.io/fish-multisig",
+  "homepage": "https://BabelFishProtocol.github.io/fish-multisig",
   "dependencies": {
     "@blueprintjs/core": "3.36.0",
     "@blueprintjs/select": "3.15.0",
