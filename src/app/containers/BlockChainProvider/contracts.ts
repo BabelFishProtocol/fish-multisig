@@ -17,6 +17,10 @@ export const contracts: IContractNetworks = {
       address: '0x52AD0a0b5Df441009fe1b1Ee83e41D74168928a0',
       abi: MultiSigWallet as any,
     },
+    multiSigMassetOwner: {
+      address: '0x1d401aED4E6Aa9E16c242Edb3223A55c575d4F38',
+      abi: MultiSigWallet as any,
+    },
     originsBase: {
       address: '0xef0CF4969a9c0F55716327a63E05BCF9c7a7b472',
       abi: OriginsBase as any,
@@ -37,6 +41,10 @@ export const contracts: IContractNetworks = {
     },
     multiSigDeposit: {
       address: '0xBb4ec577C084A17160F5A016A1a58f51bc6B0609',
+      abi: MultiSigWallet as any,
+    },
+    multiSigMassetOwner: {
+      address: '0xbD687d470A7E8B36C666968bb79376904725E4DD',
       abi: MultiSigWallet as any,
     },
     originsBase: {
