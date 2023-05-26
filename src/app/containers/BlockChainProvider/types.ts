@@ -30,6 +30,7 @@ export interface INetworkToContract {
   multiSigToken: IContract;
   multiSigDeposit: IContract;
   multiSigMassetOwner: IContract;
+  multiSigTechOwner: IContract;
   originsBase: IContract;
   fishToken: IContract;
 }

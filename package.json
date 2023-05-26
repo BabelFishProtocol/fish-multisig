@@ -133,6 +133,6 @@
   "devDependencies": {
     "@types/mathjs": "6.0.7",
     "autoprefixer": "^9",
-    "postcss": "^7"
+    "postcss": "^8"
   }
 }
