@@ -14,8 +14,8 @@ const contracts: MSConfig[] = [
   { contractName: 'multiSigOrigins', prettyName: 'Origins MultiSig' },
   { contractName: 'multiSigToken', prettyName: 'Token MultiSig' },
   { contractName: 'multiSigDeposit', prettyName: 'Deposit Wallet MultiSig' },
+  { contractName: 'multiSigTechnical', prettyName: 'Technical MultiSig' },
   { contractName: 'multiSigMassetOwner', prettyName: 'Masset Owner MultiSig' },
-  { contractName: 'multiSigTechOwner', prettyName: 'Technical Owner MultiSig' },
 ];
 
 export function HomePage() {

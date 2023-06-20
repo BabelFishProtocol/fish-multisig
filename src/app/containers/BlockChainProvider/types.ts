@@ -29,8 +29,8 @@ export interface INetworkToContract {
   multiSigOrigins: IContract;
   multiSigToken: IContract;
   multiSigDeposit: IContract;
+  multiSigTechnical: IContract;
   multiSigMassetOwner: IContract;
-  multiSigTechOwner: IContract;
   originsBase: IContract;
   fishToken: IContract;
 }
